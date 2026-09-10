@@ -96,8 +96,8 @@ An AI-based application designed for DevOps interview preparation.
 ## 📫 Connect With Me
 
 - 💻 GitHub: [krushnadeshumkh7](https://github.com/krushnadeshumkh7)
-- 📧 Email: Add your email here
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 📧 Email: kdeshmukh2@gmail.com
+- 💼 LinkedIn: krushnadeshmukh
 
 ---
 
